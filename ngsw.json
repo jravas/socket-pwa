@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1596964859236,
+  "timestamp": 1596964983459,
   "index": "/socket-pwa/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "/socket-pwa/favicon.ico",
         "/socket-pwa/index.html",
-        "/socket-pwa/main-es2015.0768cf283dcb676ad842.js",
-        "/socket-pwa/main-es5.0768cf283dcb676ad842.js",
+        "/socket-pwa/main-es2015.5196629abfa296fa26d8.js",
+        "/socket-pwa/main-es5.5196629abfa296fa26d8.js",
         "/socket-pwa/manifest.webmanifest",
         "/socket-pwa/polyfills-es2015.f332a089ad1600448873.js",
         "/socket-pwa/polyfills-es5.177e85a9724683782539.js",
@@ -49,9 +49,9 @@
     "/socket-pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/socket-pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/socket-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/socket-pwa/index.html": "fcd092259ec09fb61daf876b0ae0e139e65d29c8",
-    "/socket-pwa/main-es2015.0768cf283dcb676ad842.js": "62be51f4599e31424517d2fec8fd1b21d3f1c76b",
-    "/socket-pwa/main-es5.0768cf283dcb676ad842.js": "fb219c8af7c80e076382415a03db47e29d359048",
+    "/socket-pwa/index.html": "16c792992df18b678008e519e0fd0e8bef230c65",
+    "/socket-pwa/main-es2015.5196629abfa296fa26d8.js": "e51ea2a3c27cb4301b2f4f702077ebeb1bf6b489",
+    "/socket-pwa/main-es5.5196629abfa296fa26d8.js": "86ba279777e8a1bf49af43d587926f9a21987bfb",
     "/socket-pwa/manifest.webmanifest": "df8e9169d0d56026e1d6d9ba1ddf7e7140eee477",
     "/socket-pwa/polyfills-es2015.f332a089ad1600448873.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
     "/socket-pwa/polyfills-es5.177e85a9724683782539.js": "8aa26ea87b9958c6bd13b7c257c0e9940438e684",
